@@ -1,0 +1,13 @@
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\bin\Debug\netcoreapp3.1\FirstCSapp.exe
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\bin\Debug\netcoreapp3.1\FirstCSapp.deps.json
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\bin\Debug\netcoreapp3.1\FirstCSapp.runtimeconfig.json
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\bin\Debug\netcoreapp3.1\FirstCSapp.runtimeconfig.dev.json
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\bin\Debug\netcoreapp3.1\FirstCSapp.dll
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\bin\Debug\netcoreapp3.1\FirstCSapp.pdb
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\obj\Debug\netcoreapp3.1\FirstCSapp.csprojAssemblyReference.cache
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\obj\Debug\netcoreapp3.1\FirstCSapp.AssemblyInfoInputs.cache
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\obj\Debug\netcoreapp3.1\FirstCSapp.AssemblyInfo.cs
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\obj\Debug\netcoreapp3.1\FirstCSapp.csproj.CoreCompileInputs.cache
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\obj\Debug\netcoreapp3.1\FirstCSapp.dll
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\obj\Debug\netcoreapp3.1\FirstCSapp.pdb
+C:\Users\Clint\Desktop\Dojo_Assignments\C#\FirstCSapp\obj\Debug\netcoreapp3.1\FirstCSapp.genruntimeconfig.cache
